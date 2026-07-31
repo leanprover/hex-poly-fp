@@ -1,0 +1,20 @@
+name = "hex-poly-fp"
+defaultTargets = ["HexPolyFp"]
+
+leanOptions = [
+  { name = "doc.verso", value = true },
+  { name = "doc.verso.suggestions", value = false },
+]
+
+[[require]]
+name = "HexPoly"
+git = "https://github.com/leanprover/hex-poly.git"
+rev = "edadb24574148105a354f737d59a367a4acbf51d"
+
+[[require]]
+name = "HexModArith"
+git = "https://github.com/leanprover/hex-mod-arith.git"
+rev = "e32dbcb49f4e91e6ba357f1235ecb2b0c81e4753"
+
+[[lean_lib]]
+name = "HexPolyFp"
