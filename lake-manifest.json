@@ -7,10 +7,10 @@
       "type": "git",
       "subDir": null,
       "scope": "",
-      "rev": "2df407d09c7362ad9e755b293034517a0b3c7ef5",
+      "rev": "eafaff9685ab262b694fbc4a0ad6d0a3ba35c51a",
       "name": "HexModArith",
       "manifestFile": "lake-manifest.json",
-      "inputRev": "2df407d09c7362ad9e755b293034517a0b3c7ef5",
+      "inputRev": "eafaff9685ab262b694fbc4a0ad6d0a3ba35c51a",
       "inherited": false,
       "configFile": "lakefile.lean"
     },
@@ -19,10 +19,10 @@
       "type": "git",
       "subDir": null,
       "scope": "",
-      "rev": "07ea4eb6bf466e0a0826d65069b6659317bc1d0c",
+      "rev": "eb264f4de2116244183510e7e21376f57b2a1c86",
       "name": "HexPoly",
       "manifestFile": "lake-manifest.json",
-      "inputRev": "07ea4eb6bf466e0a0826d65069b6659317bc1d0c",
+      "inputRev": "eb264f4de2116244183510e7e21376f57b2a1c86",
       "inherited": false,
       "configFile": "lakefile.toml"
     },
@@ -31,10 +31,10 @@
       "type": "git",
       "subDir": null,
       "scope": "",
-      "rev": "d294600d228db1988856da19e12860c53c4d076c",
+      "rev": "f6ea40210366e9d53f77439df7961d0bc5b1d02f",
       "name": "HexArith",
       "manifestFile": "lake-manifest.json",
-      "inputRev": "d294600d228db1988856da19e12860c53c4d076c",
+      "inputRev": "f6ea40210366e9d53f77439df7961d0bc5b1d02f",
       "inherited": true,
       "configFile": "lakefile.lean"
     }
